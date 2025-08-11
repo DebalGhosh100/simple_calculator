@@ -1,0 +1,3 @@
+/home/debalghosh/simple_calculator/simple_calculator/build/CMakeFiles/edit_cache.dir
+/home/debalghosh/simple_calculator/simple_calculator/build/CMakeFiles/rebuild_cache.dir
+/home/debalghosh/simple_calculator/simple_calculator/build/CMakeFiles/basic-calculator.dir
