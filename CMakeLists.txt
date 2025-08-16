@@ -13,3 +13,5 @@ set(HEADER_DIRECTORIES ./main/calculator/operations ./main/calculator)
 add_executable(${PROJECT_NAME} ${SOURCE_FILES} ${HEADER_FILES})
 
 target_include_directories(${PROJECT_NAME} PUBLIC ${HEADER_DIRECTORIES})
+
+install(TARGETS ${PROJECT_NAME} DESTINATION ${CMAKE_INSTALL_BINDIR})
